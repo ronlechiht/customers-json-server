@@ -2,7 +2,8 @@
   "general": [
     {
       "totalCustomers": 10,
-      "totalActiveCustomers": 5
+      "totalActiveCustomers": 5,
+      "id": "59e7"
     }
   ],
   "customers": [
